@@ -18,4 +18,3 @@ DROP COLUMN row_num;
 SELECT *
 FROM layoff_Staging2;
 
-#### Data clening done ####
