@@ -1,6 +1,6 @@
 #Deleting unnecessary row and column
 
-#Finding and deleting unnecessary row which important column is blank
+#Finding and deleting unnecessary row where important column is blank
 SELECT *
 FROM layoff_Staging2
 WHERE total_laid_off IS NULL
